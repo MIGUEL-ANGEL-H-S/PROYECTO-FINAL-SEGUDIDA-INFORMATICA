@@ -1,0 +1,4 @@
+programa keyloger autorum seguidad informatica 
+ejecular el create_dmp_custom.bat y localisar el archivo deseado para la copia de ejecutable y bloc de notas el cual
+regista las actividades o lo cual esta echo un keyloger.
+autor: Miguel Angel Huallpa Serruto 
